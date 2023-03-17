@@ -1,4 +1,4 @@
-# Conflit
+# Remote
 
 Cette quête va traiter des conflits sur Git.
 
