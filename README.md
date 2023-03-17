@@ -1,4 +1,4 @@
-# Conflit
+# Local
 
 Cette quête va traiter des conflits sur Git.
 
